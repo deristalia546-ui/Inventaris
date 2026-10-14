@@ -1,0 +1,8 @@
+﻿Kode,Nama Barang,Kategori,Lokasi,Jumlah,Kondisi,Tanggal Beli
+INV-001,Laptop,Elektronik,Lab Komputer,15,Baik,2025-01-15
+INV-002,Proyektor,Elektronik,Ruang Kelas 9A,2,Baik,2024-08-20
+INV-003,Meja Siswa,Furnitur,Ruang Kelas 8B,30,Baik,2023-07-10
+INV-004,Kursi Siswa,Furnitur,Ruang Kelas 8B,28,Perlu Perbaikan,2022-06-12
+INV-005,Printer,Elektronik,Ruang Tata Usaha,1,Rusak,2021-11-05
+INV-006,Bola Basket,Olahraga,Gudang Olahraga,8,Baik,2025-02-01
+INV 008,Speaker,Elektronik,Ruang Rapat,2,Baik,2025-12-12
